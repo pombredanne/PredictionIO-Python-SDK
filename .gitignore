@@ -2,7 +2,10 @@
 .project
 .pydevproject
 .settings
+*.swp
 build/
 dist/
 MANIFEST
 docs/build/
+tests_env/
+*.zip
